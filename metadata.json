@@ -1,0 +1,13 @@
+{
+    "name": "Qlassy Poll",
+    	"uri": "https://github.com/Souravpandev/qlassy-poll",
+    "description": "A comprehensive polling plugin for Question2Answer that allows users to create polls with multiple options, vote on them, and view real-time results. Features include AJAX-powered voting, customizable poll settings, admin controls, badge system integration, responsive design, and performance optimizations with minified assets.",
+    "version": "1.0.0",
+    "date": "2025-01-28",
+    "author": "Sourav Pan",
+    "author_uri": "https://github.com/Souravpandev",
+    "license": "GPLv3",
+    "update_uri": "https://raw.githubusercontent.com/Souravpandev/q2a-qlassy-poll/main/qa-plugin.php",
+    "min_q2a": "1.8",
+    "min_php": "5.1.2"
+}
